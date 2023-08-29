@@ -11,17 +11,9 @@ module.exports = {
   },
   head: [["link", { rel: "icon", href: "/logo.jpg" }]],
   themeConfig: {
-    repo: "https://github.com/all-smile/doc-vuepress",
+    repo: "https://github.com/all-smile/vuepress-star",
     sidebarDepth: 1,
     nav: [
-      {
-        text: "基础",
-        link: "/base/",
-      },
-      {
-        text: "进阶",
-        link: "/more/",
-      },
       {
         text: "知识库",
         items: [
@@ -37,55 +29,145 @@ module.exports = {
       },
     ],
     sidebar: {
-      "/base/": [
-        {
-          title: "JavaScript",
-          collapsable: true,
-          children: [
-            "JavaScript-原型.md",
-            "JavaScript-继承.md",
-            "JavaScript-闭包.md",
-            { title: "test", path: "/base/JavaScript/test.md" },
-          ],
-        },
-        {
-          title: "CSS",
-          collapsable: true,
-          children: ["CSS-盒子模型.md", "CSS-选择器.md", "CSS-BFC.md"],
-        },
-        {
-          title: "浏览器",
-          collapsable: true,
-          children: ["浏览器-事件模型.md", "浏览器-内存泄漏.md"],
-        },
-        {
-          title: "性能优化",
-          collapsable: true,
-          children: ["性能优化-重绘和回流.md"],
-        },
-        {
-          title: "工程化",
-          collapsable: true,
-          children: ["工程化-模块化机制.md"],
-        },
-      ],
-      "/more/": [
-        {
-          title: "设计模式",
-          collapsable: true,
-          children: ["设计模式.md"],
-        },
-        {
-          title: "浏览器网络相关",
-          collapsable: false,
-          children: ["HTTP发展.md", "HTTP协议.md"],
-        },
-      ],
       "/fe-skills/": [
         {
           title: "个人网站汇总导航",
-          collapsable: false,
+          collapsable: true,
           children: ["个人网站汇总导航.md"],
+        },
+        {
+          title: "🎃代码规范控制",
+          collapsable: true,
+          children: [
+            {
+              title: "BEM规范",
+              path: "/fe-skills/代码规范控制/BEM规范.md",
+            },
+            {
+              title: "vscode开发中格式化问题解决",
+              path: "/fe-skills/代码规范控制/vscode开发中格式化问题解决.md",
+            },
+            {
+              title: "gitattributes文件作用详细讲解",
+              path: "/fe-skills/代码规范控制/gitattributes文件作用详细讲解.md",
+            },
+            {
+              title: "eslint介绍",
+              path: "/fe-skills/代码规范控制/eslint介绍.md",
+            },
+            {
+              title: "vscode导入导出配置（gist）",
+              path: "/fe-skills/代码规范控制/vscode导入导出配置（gist）.md",
+            },
+            {
+              title: "perttier+eslint+husky的使用",
+              path: "/fe-skills/代码规范控制/perttier+eslint+husky的使用.md",
+            },
+            {
+              title: "commitlint配置",
+              path: "/fe-skills/代码规范控制/commitlint配置.md",
+            },
+            {
+              title: "团队代码规范",
+              path: "/fe-skills/代码规范控制/团队代码规范.md",
+            },
+          ],
+        },
+        {
+          title: "🍿基础框架优化项",
+          collapsable: true,
+          children: [
+            {
+              title: "捕获404页面，并重定向页面",
+              path: "/fe-skills/基础框架优化项/捕获404页面，并重定向页面.md",
+            },
+            {
+              title: "滚动条样式修改",
+              path: "/fe-skills/基础框架优化项/滚动条样式修改.md",
+            },
+            {
+              title: "marginTop塌陷最好的处理方式",
+              path: "/fe-skills/基础框架优化项/marginTop塌陷最好的处理方式.md",
+            },
+            {
+              title: "打开、关闭当前网页",
+              path: "/fe-skills/基础框架优化项/打开、关闭当前网页.md",
+            },
+            {
+              title: "封装sessionStorage",
+              path: "/fe-skills/基础框架优化项/封装sessionStorage.md",
+            },
+            {
+              title: "页面文字禁止被选中复制",
+              path: "/fe-skills/基础框架优化项/页面文字禁止被选中复制.md",
+            },
+            {
+              title: "socket消息接收",
+              path: "/fe-skills/基础框架优化项/socket消息接收.md",
+            },
+            {
+              title: "浏览器识别，以及版本号",
+              path: "/fe-skills/基础框架优化项/浏览器识别，以及版本号.md",
+            },
+            {
+              title: "JS复制文本",
+              path: "/fe-skills/基础框架优化项/JS复制文本.md",
+            },
+            {
+              title: "less全局变量使用方式",
+              path: "/fe-skills/基础框架优化项/less全局变量使用方式.md",
+            },
+          ],
+        },
+        {
+          title: "🎯Vue",
+          collapsable: true,
+          children: [
+            {
+              title: "env[mode]文件中如何添加注释",
+              path: "/fe-skills/Vue/env[mode]文件中如何添加注释.md",
+            },
+            {
+              title: "vue实用技巧",
+              path: "/fe-skills/Vue/vue实用技巧.md",
+            },
+            {
+              title: "vue组件通信的方式",
+              path: "/fe-skills/Vue/vue组件通信的方式.md",
+            },
+            {
+              title: "🎀Vue自定义指令",
+              path: "/fe-skills/Vue/🎀Vue自定义指令.md",
+            },
+            {
+              title: "控制点菜单管理",
+              path: "/fe-skills/Vue/控制点菜单管理.md",
+            },
+            {
+              title: "$emit,$on实现原理剖析",
+              path: "/fe-skills/Vue/$emit,$on实现原理剖析",
+            },
+            {
+              title: "keep-alive实现原理探究",
+              path: "/fe-skills/Vue/keep-alive实现原理探究.md",
+            },
+            {
+              title: "diff算法",
+              path: "/fe-skills/Vue/diff算法.md",
+            },
+            {
+              title: "vue扩展插件，自定义原型方法挂载",
+              path: "/fe-skills/Vue/vue扩展插件，自定义原型方法挂载.md",
+            },
+            {
+              title: "vue-router之hash与history",
+              path: "/fe-skills/Vue/vue-router之hash与history.md",
+            },
+            {
+              title: "vuecli4创建项目",
+              path: "/fe-skills/Vue/vuecli4创建项目.md",
+            },
+          ],
         },
       ],
       "/fe-framework/": [

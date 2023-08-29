@@ -15,6 +15,6 @@ git commit -m 'ci: deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 
-git push -f git@github.com:all-smile/doc-vuepress.git master:gh-pages
+git push -f git@github.com:all-smile/vuepress-star.git master:gh-pages
 
 cd -

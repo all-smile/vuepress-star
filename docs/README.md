@@ -2,7 +2,7 @@
 home: true
 heroImage: /qrcode_wechat.jpg
 actionText: 开始阅读 →
-actionLink: /base/
+actionLink: /fe-skills/
 features:
 - title: 大前端体系
   details: 一路走来，看了很多书，学了很多东西，积累了很多、分享了很多，这是我的知识库，让我为之付出心血的、为之自豪的知识库。
