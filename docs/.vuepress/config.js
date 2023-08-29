@@ -1,10 +1,13 @@
 const path = require("path");
+const nodeEnv = process.env.NODE_ENV;
 
+console.log("process.env.NODE_ENV===>", nodeEnv); // development production
 console.log("path", path.join(__dirname, "./public"));
 
 module.exports = {
   title: "前端知识",
   description: "风之积也不厚，则其负大翼也无力",
+  base: nodeEnv == "development" ? "" : "/vuepress-star/",
   ga: "G-0WGB32QW31",
   markdown: {
     lineNumbers: true,
