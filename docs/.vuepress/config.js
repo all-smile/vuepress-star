@@ -30,6 +30,31 @@ module.exports = {
           },
         ],
       },
+      {
+        text: "博客空间",
+        items: [
+          {
+            text: '语雀',
+            link: 'https://www.yuque.com/xiaojt'
+          },
+          {
+            text: 'Hexo个人博客',
+            link: 'https://blog.i-xiao.space/'
+          },
+          {
+            text: 'GitHub主页',
+            link: 'https://home.i-xiao.space/'
+          },
+          {
+            text: '掘金社区',
+            link: 'https://juejin.cn/user/852876755212814/posts'
+          },
+          {
+            text: '博客园社区',
+            link: 'https://www.cnblogs.com/all-smile'
+          },
+        ]
+      }
     ],
     sidebar: {
       "/fe-skills/": [
