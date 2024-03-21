@@ -31,7 +31,7 @@ self.__precacheManifest = [
   },
   {
     "url": "404.html",
-    "revision": "bce292fcc79c95a46ad99e4df244237f"
+    "revision": "4697368dec1a816eef35588176a9d64d"
   },
   {
     "url": "assets/css/0.styles.c51e8d4d.css",
@@ -162,8 +162,8 @@ self.__precacheManifest = [
     "revision": "67e50037a2f1e4984bac921469939d9e"
   },
   {
-    "url": "assets/js/11.9928cd32.js",
-    "revision": "22eba25a9de4bbae946906bc68c637a9"
+    "url": "assets/js/11.6bf8e174.js",
+    "revision": "eb55512d56d19fc59c6d26a1a24160e7"
   },
   {
     "url": "assets/js/12.98ec6adb.js",
@@ -174,28 +174,28 @@ self.__precacheManifest = [
     "revision": "7df03192a6e1617d4b6f893e83efa1d0"
   },
   {
-    "url": "assets/js/14.07e90131.js",
-    "revision": "03d55fcbafe24008c8ca659a7a723fcb"
+    "url": "assets/js/14.ab654b35.js",
+    "revision": "55c9c7bf06b79b49ec31eebf1716d87e"
   },
   {
-    "url": "assets/js/15.9d28c81e.js",
-    "revision": "63b7b8ad614dfc0c23c096b4ae6a4c26"
+    "url": "assets/js/15.1fed5859.js",
+    "revision": "7180a0a987b56ded3af17892ca9ad837"
   },
   {
     "url": "assets/js/16.21b2dd3a.js",
     "revision": "bc5c4edeb5440829c0badb83e94b4c1c"
   },
   {
-    "url": "assets/js/17.cd4f95b1.js",
-    "revision": "deec5da21aaddee0f4b49ce4062e0e96"
+    "url": "assets/js/17.96dd08cb.js",
+    "revision": "5a9179a7b99c4205d46bf26878aca976"
   },
   {
-    "url": "assets/js/18.081d43e9.js",
-    "revision": "407d28cededf5bb259d0f0a14873e9e2"
+    "url": "assets/js/18.dbbb2980.js",
+    "revision": "30b867365c55b13d0047d59029c674b6"
   },
   {
-    "url": "assets/js/19.183b6438.js",
-    "revision": "5c8387e515529c2af53c5f5a829185f8"
+    "url": "assets/js/19.eeb605c9.js",
+    "revision": "d8023406d9f3f76d9415c99ca9e9610e"
   },
   {
     "url": "assets/js/2.92e495bb.js",
@@ -206,24 +206,24 @@ self.__precacheManifest = [
     "revision": "118dfc2f227782bd79688bfdf97a515a"
   },
   {
-    "url": "assets/js/21.483bd20b.js",
-    "revision": "7a1c5cf691e093116a2a5ea452a82a77"
+    "url": "assets/js/21.03f53dda.js",
+    "revision": "58190e8aec96c89c1316226507b05f75"
   },
   {
-    "url": "assets/js/22.b04ea3f3.js",
-    "revision": "0395749849712a97d98b363dfdfa6bec"
+    "url": "assets/js/22.83d697a3.js",
+    "revision": "1321aff430a5934c2aa4e057c330b278"
   },
   {
     "url": "assets/js/23.cb6394db.js",
     "revision": "6c36ad0338de96136f0d43c9a101a953"
   },
   {
-    "url": "assets/js/24.87e08259.js",
-    "revision": "a79915b85ad48a59d427cce858061e97"
+    "url": "assets/js/24.cbb908eb.js",
+    "revision": "09d266425be85f8fd35c1e8400c70091"
   },
   {
-    "url": "assets/js/25.d8967ec6.js",
-    "revision": "65a07790dbb176aeac84ff0925a18c33"
+    "url": "assets/js/25.07ee40cb.js",
+    "revision": "59e39b49115ec21e74faaac3c9fc1c98"
   },
   {
     "url": "assets/js/26.19829f45.js",
@@ -258,24 +258,24 @@ self.__precacheManifest = [
     "revision": "e4ae9d78e5dcdb5a7e42990d4a1f6655"
   },
   {
-    "url": "assets/js/33.3fa482e1.js",
-    "revision": "67db3880e7b0a6b16ec70313fa5e165e"
+    "url": "assets/js/33.97d004ed.js",
+    "revision": "3e75d6e1d6c42281dd4032e65683dc72"
   },
   {
-    "url": "assets/js/34.6f7cf272.js",
-    "revision": "cd500499fd17c41b5f10644a8975f5af"
+    "url": "assets/js/34.e961349e.js",
+    "revision": "c29cce9d4a988a2c782e4af939afd5b6"
   },
   {
-    "url": "assets/js/35.72678e1f.js",
-    "revision": "05314ce688add0c4520b36ae53558bfb"
+    "url": "assets/js/35.7f9743f5.js",
+    "revision": "70b23abc031a547799a986bae57c52a6"
   },
   {
-    "url": "assets/js/36.e57b7018.js",
-    "revision": "b0942dcbecc23f6e2973ac9dba9dec3e"
+    "url": "assets/js/36.41898e8c.js",
+    "revision": "ea7a95543143f37fe8ab260a9285dd9f"
   },
   {
-    "url": "assets/js/37.e74b511c.js",
-    "revision": "a17e2127826a5adf4e106ebbc516cf94"
+    "url": "assets/js/37.a8cc2d59.js",
+    "revision": "7e97a3e0c0cc6b76f02f5630bf9423dd"
   },
   {
     "url": "assets/js/38.838c6717.js",
@@ -306,8 +306,8 @@ self.__precacheManifest = [
     "revision": "147e0adf5ed6807a532059c9c9bf4608"
   },
   {
-    "url": "assets/js/44.e2176643.js",
-    "revision": "4361034fc73c775aac0254bfa222f0ac"
+    "url": "assets/js/44.a56db069.js",
+    "revision": "d9830ebccd18e1eafe57fffd0f193f11"
   },
   {
     "url": "assets/js/45.2af6b1c1.js",
@@ -318,8 +318,8 @@ self.__precacheManifest = [
     "revision": "aeb4f89b2442d81208e9bdd360fa1cb0"
   },
   {
-    "url": "assets/js/47.732e2b2d.js",
-    "revision": "86a7e1a985c9f39741a189c26d753957"
+    "url": "assets/js/47.b12956d2.js",
+    "revision": "f534cf45db427a3a47232f0be4e6ebf9"
   },
   {
     "url": "assets/js/48.5b26bf47.js",
@@ -330,16 +330,16 @@ self.__precacheManifest = [
     "revision": "5fbb78b6c61c565416af1245e48120b9"
   },
   {
-    "url": "assets/js/5.21d74768.js",
-    "revision": "e61935eb4eb9f593162ee9c657a6acd5"
+    "url": "assets/js/5.0af014fd.js",
+    "revision": "6794c566d852ed50171eb3ebdf4afcd4"
   },
   {
     "url": "assets/js/50.e2292df6.js",
     "revision": "cda542518b8b958733bbeca368d101e2"
   },
   {
-    "url": "assets/js/51.87d702ca.js",
-    "revision": "8473e057e13453152a3805438311aa9f"
+    "url": "assets/js/51.e7f6a165.js",
+    "revision": "4e8e3c42f4bc8da69a773ea7f3d4ee61"
   },
   {
     "url": "assets/js/52.04019c3f.js",
@@ -350,20 +350,24 @@ self.__precacheManifest = [
     "revision": "af0666caab429a8f7dbd508ecf2a86b6"
   },
   {
-    "url": "assets/js/54.4e38ea52.js",
-    "revision": "bf208983a6836c1fe5a4b1b378bd0012"
+    "url": "assets/js/54.52adcbff.js",
+    "revision": "4d1f3a3e35077194cfebe4e2255376c8"
   },
   {
-    "url": "assets/js/55.119e1ff3.js",
-    "revision": "7b646cf373c9b70d8934f2b4f6d42e99"
+    "url": "assets/js/55.9cc4b002.js",
+    "revision": "87a2197b2dca05802691cc383e217930"
   },
   {
-    "url": "assets/js/56.9aab18a8.js",
-    "revision": "e5537a722a98dcdf219f6f8e75895709"
+    "url": "assets/js/56.0f724c0a.js",
+    "revision": "bc22a7a35b7424b2d80d0ba773e70e0f"
   },
   {
-    "url": "assets/js/57.14272597.js",
-    "revision": "e62ef9448b02d959b98b9707eaf65b12"
+    "url": "assets/js/57.4a6a5971.js",
+    "revision": "2a835868c98d389a307785b6e4afb185"
+  },
+  {
+    "url": "assets/js/58.b3b6fb1a.js",
+    "revision": "908a6af17af460ee0cd55edbe0168463"
   },
   {
     "url": "assets/js/6.2f88608f.js",
@@ -374,16 +378,16 @@ self.__precacheManifest = [
     "revision": "45f25b192f0164c9d8dfedafb0694f54"
   },
   {
-    "url": "assets/js/8.74b65a38.js",
-    "revision": "b7a278052c12498f786bd3e62ba5f6a4"
+    "url": "assets/js/8.f1d11870.js",
+    "revision": "8b0ded38cca03988bfa0ceedcbea7df6"
   },
   {
     "url": "assets/js/9.22952a53.js",
     "revision": "56cb3095f9944c715e7fdb81a4a70bf8"
   },
   {
-    "url": "assets/js/app.91b23711.js",
-    "revision": "b0cbb7e2d99fbd49dd701f57e71cf450"
+    "url": "assets/js/app.9debf460.js",
+    "revision": "461a078d9d7d9dc3c9c3348006a301f7"
   },
   {
     "url": "base/foo_bar_dir.png",
@@ -391,7 +395,7 @@ self.__precacheManifest = [
   },
   {
     "url": "fe-framework/Bridge桥技术应用研究/uni-app 小程序开发.html",
-    "revision": "d8d1a08da7a46788339c56fe09812a40"
+    "revision": "970eeb34b169fea26bd27a94ebff428f"
   },
   {
     "url": "fe-framework/frame/0001.png",
@@ -415,67 +419,67 @@ self.__precacheManifest = [
   },
   {
     "url": "fe-framework/index.html",
-    "revision": "a9527989984ddbaec4fbb26e6edc0af8"
+    "revision": "1727d4ff97abad1d2cc07d3e3556f101"
   },
   {
     "url": "fe-framework/可配置化架构/单据架构+业务字典.html",
-    "revision": "56b3397c4f07a90ecd60dcfee0bd50a7"
+    "revision": "d787a073cec1360ee1f371279360816a"
   },
   {
     "url": "fe-framework/可配置化架构/数据字典.html",
-    "revision": "81cb9ed7daddce5a79e2a79e051415be"
+    "revision": "7b3096187aafd00209f6600b818d81a9"
   },
   {
     "url": "fe-framework/可配置化架构/表单字段处理.html",
-    "revision": "d679dc0750e690bef76efc615d48c09e"
+    "revision": "8db91de26a6b7aeab907c99615fcc7f4"
   },
   {
     "url": "fe-framework/团队建设/前端的详细设计文档模版.html",
-    "revision": "5456519716f1051706595bc832218696"
+    "revision": "95d1ab1f583b3b4cf483444fe862fad3"
   },
   {
     "url": "fe-framework/团队建设/如何打造一个超能团队.html",
-    "revision": "52bf8f71203e9a984fe64501131c65f7"
+    "revision": "eedd64106edc634f625e7ea368886c7c"
   },
   {
     "url": "fe-framework/架构能力/✨架构工作✔.html",
-    "revision": "415468e2f5f7855957435144eae987f5"
+    "revision": "7c043570afeca53f1c0c2ceccce2900e"
   },
   {
     "url": "fe-framework/架构能力/MVP原则.html",
-    "revision": "87a599e5f89c0ea0f1fab6c80dd4b77a"
+    "revision": "acbfa0ff5a7809cbfab189fa5f384753"
   },
   {
     "url": "fe-framework/架构能力/前端架构.html",
-    "revision": "039e4bcb4653b204c04a01dd2b2ab8a7"
+    "revision": "c7d3294b71c42b72acf5c4b9873c5862"
   },
   {
     "url": "fe-framework/架构能力/框架中的规范.html",
-    "revision": "be4019f3cc35ac6393db7696873897f3"
+    "revision": "71613d879f95cd3d0bca24674eb4978a"
   },
   {
     "url": "fe-framework/架构能力/移动端css适配布局.html",
-    "revision": "6c4f033715fe01752c3afde9d165505e"
+    "revision": "44d6d928b4d3bae3b9048d2943f1224a"
   },
   {
     "url": "fe-framework/架构能力/算法&框架算法.html",
-    "revision": "31e24ebe5c179688c596d6d5a372322b"
+    "revision": "3be41916af64b25dc48a480e12335538"
   },
   {
     "url": "fe-framework/架构能力/网络协议.html",
-    "revision": "e80eb83fea33a64e649e52f4eb2969bc"
+    "revision": "d0873515ba3043540302e022e5457bcd"
   },
   {
     "url": "fe-framework/架构能力/设计模式.html",
-    "revision": "a7592aea285791a14dbb70ce2ccfb122"
+    "revision": "67c221f8ce9c936232226d1fc08db3b7"
   },
   {
     "url": "fe-framework/网络&网关&协议/SSL.html",
-    "revision": "0336b01af87bc7573418bcd260d90fa5"
+    "revision": "649d7d9238f50f33dbdcd3240ad044d3"
   },
   {
     "url": "fe-framework/网络&网关&协议/为什么微服务一定要有API网关.html",
-    "revision": "71f0f32a3f30feb138eb72511dd23e3e"
+    "revision": "9d281f7f6a637b1c2118d8394e74db38"
   },
   {
     "url": "fe-skills/0001.png",
@@ -607,7 +611,7 @@ self.__precacheManifest = [
   },
   {
     "url": "fe-skills/index.html",
-    "revision": "11dee5ce0127bc9bf99b105a198a8584"
+    "revision": "df3fa07bbf7dd68f1a6b247eeb1a51ba"
   },
   {
     "url": "fe-skills/nav.png",
@@ -615,127 +619,127 @@ self.__precacheManifest = [
   },
   {
     "url": "fe-skills/Vue/🎀Vue自定义指令.html",
-    "revision": "4d94b52e0d352f275e091eaee215c187"
+    "revision": "325f47196da11857f9fd42707f3de367"
   },
   {
     "url": "fe-skills/Vue/$emit,$on实现原理剖析.html",
-    "revision": "49a5cb2bf92d800a3fbcbc7318cb1b2d"
+    "revision": "aad4e701ed328074846b05174ad62550"
   },
   {
     "url": "fe-skills/Vue/diff算法.html",
-    "revision": "1a467aff40de496efa8dbe906ac63620"
+    "revision": "80c65af8c2f4e7ed5f6427f93ecfb928"
   },
   {
     "url": "fe-skills/Vue/env[mode]文件中如何添加注释.html",
-    "revision": "b50d2aaa4ebb920e61456275a335d213"
+    "revision": "fefa4459de45633c33b3730c187bb5bb"
   },
   {
     "url": "fe-skills/Vue/keep-alive实现原理探究.html",
-    "revision": "8b2c7d1fe84f9fb299b3167ec69ec2b6"
+    "revision": "9fbf3cfc02ea361d6aa74082c9c98988"
   },
   {
     "url": "fe-skills/Vue/vue-router之hash与history.html",
-    "revision": "8ead205d41dc3473cadbbad7ac4591d4"
+    "revision": "4f604e3dfc0f17b1350cc386cf3eaee2"
   },
   {
     "url": "fe-skills/Vue/vuecli4创建项目.html",
-    "revision": "dcf4802e1f2acb9b8debf74c8c6ae8f4"
+    "revision": "00d0a52305e5ad23e92063b105cf9cb5"
   },
   {
     "url": "fe-skills/Vue/vue实用技巧.html",
-    "revision": "b6d62455c6f5d01424843ed6baad6fc8"
+    "revision": "b074648e483162f6676f42722dae521d"
   },
   {
     "url": "fe-skills/Vue/vue扩展插件，自定义原型方法挂载.html",
-    "revision": "6bae12f4ed17c382a37649077cd84cb0"
+    "revision": "9bc972b98a1414fe8da35e498d6e4f8b"
   },
   {
     "url": "fe-skills/Vue/vue组件通信的方式.html",
-    "revision": "60bca75904a832bb0c1309ea45e2a1de"
+    "revision": "d397eb5cc768cd7c7a711d435ff03196"
   },
   {
     "url": "fe-skills/Vue/控制点菜单管理.html",
-    "revision": "d73aea84d90e25937ac7e06364fed74d"
+    "revision": "d621bfcdffdb4b2025127a54cc3ef06f"
   },
   {
     "url": "fe-skills/个人网站汇总导航.html",
-    "revision": "63d944a2cc04576495f78b36cf349653"
+    "revision": "20b08f365306a08d5cfb7d19fcc1297a"
   },
   {
     "url": "fe-skills/代码规范控制/BEM规范.html",
-    "revision": "e5ca06f80daae34d135082274da7f459"
+    "revision": "fa0d1b45f127d9af4d57fa24c1e2bb9f"
   },
   {
     "url": "fe-skills/代码规范控制/commitlint配置.html",
-    "revision": "867717f952b7188da8be9de1ac29730d"
+    "revision": "4a6d4b03de8b79bb2f64c9c1fb86311f"
   },
   {
     "url": "fe-skills/代码规范控制/eslint介绍.html",
-    "revision": "124f0731c9bd2c7273d7b05693ddf0ce"
+    "revision": "0336009a25f78d117c86dade259b9a06"
   },
   {
     "url": "fe-skills/代码规范控制/gitattributes文件作用详细讲解.html",
-    "revision": "c02641c78c31ddadd8024c3d1f2de20d"
+    "revision": "848879071b5568fcd824fde9d838a5aa"
   },
   {
     "url": "fe-skills/代码规范控制/perttier+eslint+husky的使用.html",
-    "revision": "abf8362d19704c50227e85c309cd1a54"
+    "revision": "a9adc1c900b0c22469cba212baa9cd0e"
   },
   {
     "url": "fe-skills/代码规范控制/vscode导入导出配置（gist）.html",
-    "revision": "b2d662fc44b3a85794b4ff74c7b72cb7"
+    "revision": "6aa7d09870ae0c948ed44abae192b8ab"
   },
   {
     "url": "fe-skills/代码规范控制/vscode开发中格式化问题解决.html",
-    "revision": "a34a5aef7858c1c5bba359c53d96ac75"
+    "revision": "fb5187bc47d5137c2f11b11e0e8b8e7a"
   },
   {
     "url": "fe-skills/代码规范控制/团队代码规范.html",
-    "revision": "f89096b24f51578c3e65fcd7c66fb65d"
+    "revision": "c0c2b2d50134d180848505f2eaaf9cfc"
   },
   {
     "url": "fe-skills/基础框架优化项/JS复制文本.html",
-    "revision": "5728dfc53bf897994f42712fcd3e0499"
+    "revision": "9b1f83cd452fcd7d5c60bb37131a7a7f"
   },
   {
     "url": "fe-skills/基础框架优化项/less全局变量使用方式.html",
-    "revision": "107d7c621006f853d61297838ff15656"
+    "revision": "eef6507bd5c0df5057ae41497cf181ef"
   },
   {
     "url": "fe-skills/基础框架优化项/marginTop塌陷最好的处理方式.html",
-    "revision": "c00e92a5090426df79d420f7278b6a45"
+    "revision": "04f95faa0da26562c8fbb43160ce5508"
   },
   {
     "url": "fe-skills/基础框架优化项/socket消息接收.html",
-    "revision": "063cb284d8d92d0b13db6e6f5260ab8e"
+    "revision": "c3b82333f7364a8ce8f119d774156a78"
   },
   {
     "url": "fe-skills/基础框架优化项/封装sessionStorage.html",
-    "revision": "e6ee30754a583ac0d63eb9ba6d7ab573"
+    "revision": "f00353c28cee53f61e0fda29d6ac989d"
   },
   {
     "url": "fe-skills/基础框架优化项/打开、关闭当前网页.html",
-    "revision": "8cc9eb94e067e0186e6bcea68b50f1f7"
+    "revision": "c08c4f443d10c6d16fb86bb46c96cd94"
   },
   {
     "url": "fe-skills/基础框架优化项/捕获404页面，并重定向页面.html",
-    "revision": "a8081fd4999fe14430df989ffd492cb7"
+    "revision": "2fdd3158ad2e2ea5eba451c8265ac2ee"
   },
   {
     "url": "fe-skills/基础框架优化项/浏览器识别，以及版本号.html",
-    "revision": "ec2cce29403e206e044f998cbcb359f3"
+    "revision": "5c0058d52a799f740037f326fa3f3a70"
   },
   {
     "url": "fe-skills/基础框架优化项/滚动条样式修改.html",
-    "revision": "1dbbeb54ba6ea8a63657e5f9dea79c67"
+    "revision": "15a0eb1b31eeeb27d3f1b99590d6776c"
   },
   {
     "url": "fe-skills/基础框架优化项/页面文字禁止被选中复制.html",
-    "revision": "0b926752039bf48407b151d4f8787cde"
+    "revision": "7226e742c116e4e6604b78b3d707cbf5"
   },
   {
     "url": "index.html",
-    "revision": "4241908631177df11fba26307446041c"
+    "revision": "3280def0186bbfbc46d072fa0b6114f6"
   },
   {
     "url": "logo.jpg",
@@ -744,6 +748,10 @@ self.__precacheManifest = [
   {
     "url": "qrcode_wechat.jpg",
     "revision": "bd4366d3ff12475f7b11cb15da5e8e3b"
+  },
+  {
+    "url": "static/test.html",
+    "revision": "dbdaf58644d4d45716e33118ed43f892"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
