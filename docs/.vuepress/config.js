@@ -31,8 +31,12 @@ module.exports = {
         ],
       },
       {
-        text: "博客空间",
+        text: "个人空间",
         items: [
+          {
+            text: '微信公众号',
+            link: 'https://mp.weixin.qq.com/s/SUT82RsrhUL46VP98lk-6A'
+          },
           {
             text: '语雀',
             link: 'https://www.yuque.com/xiaojt'
