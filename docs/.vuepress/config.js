@@ -18,6 +18,15 @@ module.exports = {
     sidebarDepth: 1,
     nav: [
       {
+        text: "生活领悟",
+        items: [
+          {
+            text: "🥝书籍/电影",
+            link: "/see/",
+          },
+        ],
+      },
+      {
         text: "知识库",
         items: [
           {
@@ -292,6 +301,42 @@ module.exports = {
               title: "为什么微服务一定要有API网关",
               path:
                 "/fe-framework/网络&网关&协议/为什么微服务一定要有API网关.md",
+            },
+          ],
+        },
+      ],
+      "/see/": [
+        {
+          title: "电影",
+          collapsable: true,
+          children: [
+            {
+              title: "肖申克的救赎",
+              path: "/see/电影/肖申克的救赎.md",
+            },
+            {
+              title: "当幸福来敲门",
+              path: "/see/电影/当幸福来敲门.md",
+            },
+          ],
+        },
+        {
+          title: "书籍",
+          collapsable: true,
+          children: [
+            {
+              title: "阿Q正传",
+              path: "/see/书籍/阿Q正传.md",
+            },
+          ],
+        },
+        {
+          title: "美食",
+          collapsable: true,
+          children: [
+            {
+              title: "腊排骨火锅",
+              path: "/see/美食/腊排骨火锅.md",
             },
           ],
         },
