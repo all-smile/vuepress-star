@@ -24,6 +24,10 @@ module.exports = {
             text: "🥝书籍/电影",
             link: "/see/",
           },
+          {
+            text: "🥝闪光",
+            link: "/bling/",
+          },
         ],
       },
       {
@@ -338,6 +342,30 @@ module.exports = {
               title: "腊排骨火锅",
               path: "/see/美食/腊排骨火锅.md",
             },
+          ],
+        },
+      ],
+      "/bling/": [
+        {
+          title: "婚姻",
+          collapsable: true,
+          children: [
+            {
+              title: "订婚",
+              path: "/bling/婚姻/订婚.md",
+            },
+            {
+              title: "拍婚纱照",
+              path: "/bling/婚姻/拍婚纱照.md",
+            },
+            {
+              title: "要好",
+              path: "/bling/婚姻/要好.md",
+            },
+            // {
+            //   title: "备婚",
+            //   path: "/bling/婚姻/备婚.md",
+            // },
           ],
         },
       ],
