@@ -18,14 +18,14 @@ module.exports = {
     sidebarDepth: 1,
     nav: [
       {
-        text: "生活领悟",
+        text: "雪泥鸿爪",
         items: [
           {
             text: "🥝书籍/电影",
             link: "/see/",
           },
           {
-            text: "🥝闪光",
+            text: "🥝吉光片羽",
             link: "/bling/",
           },
         ],
