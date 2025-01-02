@@ -275,8 +275,12 @@ module.exports = {
       collapsable: true,
       children: [
         {
-          title: "云南",
-          path: "/bling/游玩/云南.md",
+          title: "美丽的云南之行",
+          path: "/bling/游玩/美丽的云南之行.md",
+        },
+        {
+          title: "云南之行补充",
+          path: "/bling/游玩/云南之行补充.md",
         },
       ],
     },
@@ -302,5 +306,21 @@ module.exports = {
         },
       ],
     }, */
+  ],
+  "/mao/": [
+    {
+      title: "毛泽东思想",
+      collapsable: true,
+      children: [
+        {
+          title: "毛选",
+          path: "/mao/毛泽东思想/长征.md",
+        },
+        {
+          title: "诗词",
+          path: "/mao/毛泽东思想/念奴娇·昆仑.md",
+        },
+      ],
+    },
   ],
 };
