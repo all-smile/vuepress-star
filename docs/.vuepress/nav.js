@@ -26,7 +26,20 @@ module.exports = [
     ],
   },
   {
-    text: "知识库",
+    text: "小白玩家",
+    items: [
+      {
+        text: "🥝电子设备",
+        link: "/dianzi/",
+      },
+      {
+        text: "🎈机械设备",
+        link: "/jixie/",
+      },
+    ],
+  },
+  {
+    text: "开发知识库",
     items: [
       {
         text: "🥝偏前端开发实用技能",
@@ -42,12 +55,12 @@ module.exports = [
     text: "空间",
     items: [
       {
-        text: "🎈掘金（优秀创作者）",
-        link: "https://juejin.cn/user/852876755212814/posts",
-      },
-      {
         text: "🎃微信公众号",
         link: "https://mp.weixin.qq.com/s/SUT82RsrhUL46VP98lk-6A",
+      },
+      {
+        text: "🎈掘金（优秀创作者）",
+        link: "https://juejin.cn/user/852876755212814/posts",
       },
       {
         text: "🎨互联主页",

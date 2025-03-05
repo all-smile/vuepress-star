@@ -323,4 +323,28 @@ module.exports = {
       ],
     },
   ],
+  "/sikao/": [
+    {
+      title: "商业",
+      collapsable: true,
+      children: [
+        {
+          title: "商业",
+          path: "/sikao/商业/商业.md",
+        },
+      ],
+    },
+  ],
+  "/dianzi/": [
+    {
+      title: "电脑",
+      collapsable: true,
+      children: [
+        {
+          title: "安装Windows10系统",
+          path: "/dianzi/电脑/安装Windows10系统.md",
+        },
+      ],
+    },
+  ],
 };
